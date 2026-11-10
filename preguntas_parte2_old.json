@@ -1,0 +1,392 @@
+[
+  {
+    "id": 31,
+    "categoria": "Señales y Control de Tráfico",
+    "pregunta": "¿Qué indica una luz roja intermitente en un semáforo de intersección?",
+    "opciones": {
+      "a": "Reducir la velocidad y avanzar sin detenerse.",
+      "b": "Tratar la intersección exactamente igual que una señal de PARE (Stop).",
+      "c": "Ceder el paso únicamente a los vehículos que vienen por la izquierda.",
+      "d": "Esperar a que cambie a luz verde fija antes de avanzar."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Una luz roja intermitente equivale a una señal de PARE; el conductor debe detenerse por completo y ceder el paso antes de proceder con precaución."
+  },
+  {
+    "id": 32,
+    "categoria": "Señales y Control de Tráfico",
+    "pregunta": "¿Qué significa una línea amarilla continua en su lado de la línea central en una carretera de dos carriles?",
+    "opciones": {
+      "a": "Está permitido adelantar si no vienen vehículos de frente.",
+      "b": "Está prohibido adelantar en su carril.",
+      "c": "El carril está reservado únicamente para autobuses escolares.",
+      "d": "Debe conducir a menos de 20 MPH."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Una línea amarilla continua en su lado de la línea central indica una zona de no adelantar para su carril."
+  },
+  {
+    "id": 33,
+    "categoria": "Compartiendo la Carretera",
+    "pregunta": "Según la ley de Florida, ¿cuál es la distancia lateral mínima que debe dejar un vehículo al adelantar a un ciclista?",
+    "opciones": {
+      "a": "1 pie (30 cm)",
+      "b": "2 pies (60 cm)",
+      "c": "3 pies (1 metro)",
+      "d": "5 pies (1.5 metros)"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La ley de Florida exige dejar un espacio libre mínimo de 3 pies (1 metro) al adelantar o circular junto a un ciclista."
+  },
+  {
+    "id": 34,
+    "categoria": "Compartiendo la Carretera",
+    "pregunta": "Si un autobús escolar se detiene a recoger niños en una carretera dividida por una mediana sin pavimentar de al menos 5 pies de ancho, ¿qué deben hacer los vehículos que circulan en sentido contrario?",
+    "opciones": {
+      "a": "Detenerse obligatoriamente hasta que el autobús retire la señal de alto.",
+      "b": "Proceder con precaución sin necesidad de detenerse.",
+      "c": "Detenerse solo si hay niños cruzando la mediana.",
+      "d": "Acelerar para despejar la zona lo antes posible."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "En una carretera dividida por una barrera física o una mediana sin pavimentar de al menos 5 pies de ancho, los vehículos en sentido contrario no están obligados a detenerse, pero deben proceder con precaución."
+  },
+  {
+    "id": 35,
+    "categoria": "Seguridad Vial y Pasajeros",
+    "pregunta": "¿A qué edad exige la ley de Florida que los niños viajen en un asiento de seguridad integrado o convertible (asiento infantil)?",
+    "opciones": {
+      "a": "Hasta los 2 años de edad.",
+      "b": "Menores de 4 años de edad.",
+      "c": "De 4 y 5 años únicamente.",
+      "d": "Menores de 8 años de edad."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La ley de Florida requiere que todos los niños menores de 4 años viajen en un asiento de seguridad para niños, y los de 4 y 5 años en un asiento infantil o elevador (booster seat)."
+  },
+  {
+    "id": 36,
+    "categoria": "Leyes de DUI y Alcohol",
+    "pregunta": "¿Qué establece la Ley de Consentimiento Implícito en Florida?",
+    "opciones": {
+      "a": "Que acepta contratar un seguro de responsabilidad civil al registrar su vehículo.",
+      "b": "Que al firmar su licencia acepta someterse a pruebas de alcohol, sangre u orina si se lo requiere un agente.",
+      "c": "Que consiente pagar las multas de tráfico automáticamente con tarjeta de crédito.",
+      "d": "Que los menores de edad pueden conducir acompañados por cualquier adulto."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Al firmar su licencia de conducir, usted acepta someterse a pruebas químicas de alcoholemia, sangre u orina si un agente de la autoridad sospecha que conduce bajo los efectos del alcohol o drogas."
+  },
+  {
+    "id": 37,
+    "categoria": "Leyes de DUI y Alcohol",
+    "pregunta": "¿Cuál es la sanción por negarse por primera vez a someterse a una prueba de alcoholemia cuando se le requiere legalmente?",
+    "opciones": {
+      "a": "Una multa de $100 sin suspensión de licencia.",
+      "b": "Suspensión automática de la licencia por 6 meses.",
+      "c": "Suspensión automática de la licencia por 1 año (12 meses).",
+      "d": "Revocación permanente del privilegio de conducir."
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La primera negativa a someterse a una prueba legal de detección de alcohol o drogas resulta en la suspensión automática de la licencia durante un año."
+  },
+  {
+    "id": 38,
+    "categoria": "Reglas de Estacionamiento y Maniobras",
+    "pregunta": "Al estacionar su vehículo en una pendiente cuesta arriba junto a un bordillo (acera), ¿hacia dónde debe girar las ruedas delanteras?",
+    "opciones": {
+      "a": "Hacia la derecha (hacia el bordillo).",
+      "b": "Hacia la izquierda (alejadas del bordillo).",
+      "c": "Totalmente rectas hacia adelante.",
+      "d": "En cualquier dirección mientras active el freno de mano."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Al estacionar cuesta arriba junto a un bordillo, se deben girar las ruedas delanteras hacia la izquierda (alejándose del bordillo) para que, si el vehículo rueda, la rueda trasera delantera toque el bordillo y lo detenga."
+  },
+  {
+    "id": 39,
+    "categoria": "Reglas de Estacionamiento y Maniobras",
+    "pregunta": "¿A qué distancia mínima de un hidrante de incendios está prohibido estacionar en Florida?",
+    "opciones": {
+      "a": "10 pies",
+      "b": "15 pies",
+      "c": "20 pies",
+      "d": "30 pies"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Está prohibido estacionar a menos de 15 pies de un hidrante (boca de incendios)."
+  },
+  {
+    "id": 40,
+    "categoria": "Reglas de Estacionamiento y Maniobras",
+    "pregunta": "¿A qué distancia mínima de una señal de PARE (Stop) o semáforo está prohibido estacionar?",
+    "opciones": {
+      "a": "15 pies",
+      "b": "20 pies",
+      "c": "30 pies",
+      "d": "50 pies"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Es ilegal estacionar a menos de 30 pies de cualquier señal de pare, señal intermitente o semáforo."
+  },
+  {
+    "id": 41,
+    "categoria": "Seguridad Vial y Leyes de Tráfico",
+    "pregunta": "Según la ley 'Move Over' (Moverse a un Lado) de Florida, si no puede cambiar de carril al acercarse a un vehículo de emergencia o servicio detenido en una autopista de varios carriles, ¿qué debe hacer?",
+    "opciones": {
+      "a": "Mantener la velocidad limite y tocar la bocina.",
+      "b": "Reducir la velocidad a 20 MPH por debajo del límite de velocidad publicado.",
+      "c": "Detenerse por completo en medio de la autopista.",
+      "d": "Encender las luces altas y continuar al mismo ritmo."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Si no es seguro o posible cambiar de carril al pasar un vehículo de emergencia o auxilio detenido con luces activadas, debe reducir la velocidad a 20 MPH por debajo del límite de velocidad permitido."
+  },
+  {
+    "id": 42,
+    "categoria": "Seguridad Vial y Leyes de Tráfico",
+    "pregunta": "En el sistema de puntos de Florida, ¿cuántos puntos se añaden a su historial si es condenado por exceder el límite de velocidad en 16 MPH o más?",
+    "opciones": {
+      "a": "3 puntos",
+      "b": "4 puntos",
+      "c": "5 puntos",
+      "d": "6 puntos"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Exceder el límite de velocidad en 15 MPH o menos equivale a 3 puntos, mientras que excederlo en 16 MPH o más conlleva 4 puntos en el historial de manejo."
+  },
+  {
+    "id": 43,
+    "categoria": "Seguridad Vial y Leyes de Tráfico",
+    "pregunta": "¿Cuántos puntos resultan en una suspensión de la licencia por 30 días si se acumulan en un período de 12 meses?",
+    "opciones": {
+      "a": "6 puntos",
+      "b": "10 puntos",
+      "c": "12 puntos",
+      "d": "18 puntos"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Acumular 12 puntos dentro de un período de 12 meses resulta en una suspensión automática de la licencia por 30 días."
+  },
+  {
+    "id": 44,
+    "categoria": "Leyes de DUI y Alcohol",
+    "pregunta": "¿Cuál es el límite legal de Nivel de Alcohol en Sangre (BAL) para conductores menores de 21 años bajo la ley de Tolerancia Cero de Florida?",
+    "opciones": {
+      "a": ".08",
+      "b": ".05",
+      "c": ".02",
+      "d": ".00 estrictamente"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Bajo la ley de Tolerancia Cero, a cualquier conductor menor de 21 años detenido con un BAL de .02 o superior se le suspenderá automáticamente el privilegio de conducir durante 6 meses."
+  },
+  {
+    "id": 45,
+    "categoria": "Equipamiento del Vehículo",
+    "pregunta": "¿Cuándo debe cambiar sus luces altas a luces bajas al acercarse a un vehículo que viene en sentido contrario?",
+    "opciones": {
+      "a": "A 200 pies",
+      "b": "A 300 pies",
+      "c": "A 500 pies",
+      "d": "A 1,000 pies"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La ley de Florida exige cambiar de luces altas a luces bajas a menos de 500 pies de un vehículo que se aproxima de frente."
+  },
+  {
+    "id": 46,
+    "categoria": "Equipamiento del Vehículo",
+    "pregunta": "¿Cuándo debe cambiar sus luces altas a luces bajas al seguir a otro vehículo por detrás?",
+    "opciones": {
+      "a": "A 100 pies",
+      "b": "A 300 pies",
+      "c": "A 500 pies",
+      "d": "A 750 pies"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Debe usar luces bajas cuando se encuentre a 300 pies o menos por detrás del vehículo que está siguiendo."
+  },
+  {
+    "id": 47,
+    "categoria": "Señales y Control de Tráfico",
+    "pregunta": "En un cruce de ferrocarril, ¿a qué distancia de las vías debe detenerse cuando se aproxima un tren?",
+    "opciones": {
+      "a": "Entre 5 y 10 pies",
+      "b": "Entre 15 y 50 pies",
+      "c": "Entre 25 y 100 pies",
+      "d": "A exactamente 50 pies siempre"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Debe detenerse a una distancia de entre 15 y 50 pies del cruce de ferrocarril más cercano cuando las luces o barreras indiquen la llegada de un tren."
+  },
+  {
+    "id": 48,
+    "categoria": "Situaciones de Emergencia",
+    "pregunta": "Si su vehículo comienza a hidroplanear o patinar en una carretera mojada, ¿cuál es la primera acción correcta que debe tomar?",
+    "opciones": {
+      "a": "Pisar el freno con fuerza inmediatamente.",
+      "b": "Quitar suavemente el pie del acelerador y no frenar de golpe.",
+      "c": "Girar bruscamente el volante en sentido contrario.",
+      "d": "Poner la transmisión en punto muerto y tirar del freno de mano."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "En caso de hidroplaneo o patinaje, debe retirar suavemente el pie del acelerador y desacelerar sin pisar bruscamente los frenos para recuperar la tracción."
+  },
+  {
+    "id": 49,
+    "categoria": "Situaciones de Emergencia",
+    "pregunta": "Si su vehículo se queda atascado en las vías del tren y se aproximan las luces de advertencia, ¿en qué dirección debe correr para evitar los restos de una posible colisión?",
+    "opciones": {
+      "a": "Paralelo a las vías en la misma dirección a la que viaja el tren.",
+      "b": "En un ángulo de 45 grados alejándose de las vías y en dirección hacia el tren que se acerca.",
+      "c": "Directamente hacia atrás por la carretera.",
+      "d": "Quedarse junto al vehículo haciendo señales al maquinista."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Debe abandonar el vehículo de inmediato y correr en un ángulo de 45 grados alejándose de las vías en la dirección de donde viene el tren para evitar ser alcanzado por los escombros del impacto."
+  },
+  {
+    "id": 50,
+    "categoria": "Compartiendo la Carretera",
+    "pregunta": "Al circular de noche, ¿cuáles son los requisitos de iluminación de una bicicleta en las vías públicas de Florida?",
+    "opciones": {
+      "a": "Solo requiere un chaleco reflectante.",
+      "b": "Una luz blanca delantera visible a 500 pies y un reflector/luz roja trasera visible a 600 pies.",
+      "c": "Una luz amarilla delantera visible a 100 pies.",
+      "d": "No requiere luces si circula por la acera."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Entre la puesta y la salida del sol, la bicicleta debe contar con una luz blanca delantera visible a 500 pies y un reflector/luz roja trasera visible desde 600 pies."
+  },
+  {
+    "id": 51,
+    "categoria": "Leyes de Seguros de Florida",
+    "pregunta": "¿Qué coberturas de seguro mínimas requiere la Ley de No Culpabilidad para registrar un vehículo de motor en Florida?",
+    "opciones": {
+      "a": "$10,000 PIP y $10,000 PDL",
+      "b": "$5,000 PIP y $5,000 PDL",
+      "c": "$25,000 Lesiones Corporales y $50,000 PDL",
+      "d": "$50,000 PIP y $100,000 Cobertura Total"
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "Florida exige al menos $10,000 en Protección contra Lesiones Personales (PIP) y $10,000 en Cobertura de Daños a la Propiedad (PDL) para registrar un vehículo."
+  },
+  {
+    "id": 52,
+    "categoria": "Reglas de Manejo y Maniobras",
+    "pregunta": "¿A qué distancia mínima antes de realizar un giro debe activar sus luces direccionales?",
+    "opciones": {
+      "a": "50 pies",
+      "b": "100 pies",
+      "c": "200 pies",
+      "d": "500 pies"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Debe señalar su intención de girar durante al menos los últimos 100 pies antes de realizar el giro."
+  },
+  {
+    "id": 53,
+    "categoria": "Señales y Control de Tráfico",
+    "pregunta": "¿Qué indica una señal de tráfico de forma octogonal (8 lados) de color rojo?",
+    "opciones": {
+      "a": "Ceda el paso (Yield)",
+      "b": "Detención obligatoria (Pare / Stop)",
+      "c": "Zona de obras adelantada",
+      "d": "Cruce escolar"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Las señales octogonales de color rojo son exclusivas para las órdenes de detención obligatoria (PARE / STOP)."
+  },
+  {
+    "id": 54,
+    "categoria": "Señales y Control de Tráfico",
+    "pregunta": "¿Qué indica una señal de tráfico triangular que apunta hacia abajo?",
+    "opciones": {
+      "a": "Peligro en la vía",
+      "b": "Ceda el paso (Yield)",
+      "c": "Fin de zona escolar",
+      "d": "Solo giro a la izquierda"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La señal triangular invertida (tres lados apuntando hacia abajo) indica 'Ceda el Paso' (Yield)."
+  },
+  {
+    "id": 55,
+    "categoria": "Señales y Control de Tráfico",
+    "pregunta": "¿De qué color son las señales de advertencia en zonas de construcción y mantenimiento de carreteras?",
+    "opciones": {
+      "a": "Amarillo brillante",
+      "b": "Naranja con letras o símbolos negros",
+      "c": "Verde reflectante",
+      "d": "Azul y blanco"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Las señales de construcción y mantenimiento en carretera son de color naranja con letras o símbolos en negro."
+  },
+  {
+    "id": 56,
+    "categoria": "Seguridad Vial y Peatones",
+    "pregunta": "Cuando un peatón cruza la calle guiado por un perro guía o portando un bastón blanco con punta roja, ¿qué debe hacer el conductor?",
+    "opciones": {
+      "a": "Tocar la bocina para avisarle de su presencia.",
+      "b": "Detenerse por completo y ceder el paso en todo momento.",
+      "c": "Pasar despacio por el carril contiguo.",
+      "d": "Avanzar si el peatón no está en un paso marcado."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Los conductores deben detenerse por completo y ceder el paso a los peatones ciegos o con discapacidad visual que lleven un bastón blanco o perro guía."
+  },
+  {
+    "id": 57,
+    "categoria": "Equipamiento del Vehículo",
+    "pregunta": "¿Cuál es la profundidad mínima permitida para la banda de rodadura de los neumáticos en un vehículo en Florida?",
+    "opciones": {
+      "a": "1/16 de pulgada",
+      "b": "2/32 de pulgada",
+      "c": "3/32 de pulgada",
+      "d": "1/4 de pulgada"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Los neumáticos deben tener una banda de rodadura mínima de al menos 3/32 de pulgada y no presentar puntos desgastados que expongan las capas."
+  },
+  {
+    "id": 58,
+    "categoria": "Infracciones y Penalizaciones",
+    "pregunta": "¿Qué sanción recibe un conductor por arrojar hasta 15 libras de basura (littering) a la calzada?",
+    "opciones": {
+      "a": "Una advertencia verbal.",
+      "b": "Una multa de $100.",
+      "c": "Suspensión de licencia por 30 días.",
+      "d": "Un delito grave de tercer grado."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Arrojar basura hasta 15 libras desde un vehículo en la vía pública conlleva una multa de $100."
+  },
+  {
+    "id": 59,
+    "categoria": "Reglas de Manejo y Maniobras",
+    "pregunta": "¿Cuál es la regla recomendada para mantener una distancia de seguimiento segura en condiciones normales de conducción?",
+    "opciones": {
+      "a": "La regla de los 2 segundos.",
+      "b": "La regla de los 4 segundos.",
+      "c": "Un largo de automóvil por cada 20 MPH.",
+      "d": "50 pies sin importar la velocidad."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El manual de Florida recomienda utilizar una distancia de seguimiento mínima de 4 segundos en condiciones normales de manejo."
+  },
+  {
+    "id": 60,
+    "categoria": "Compartiendo la Carretera",
+    "pregunta": "¿Qué es la 'Zona Prohibida' (No-Zone) alrededor de camiones comerciales y autobuses?",
+    "opciones": {
+      "a": "Los carriles exclusivos para transporte pesado.",
+      "b": "Los puntos ciegos alrededor del camión donde el conductor no puede verlo.",
+      "c": "Las zonas de carga y descarga de mercancías.",
+      "d": "La distancia requerida para adelantar a un remolque."
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La 'Zona Prohibida' (No-Zone) se refiere a los grandes puntos ciegos a los lados, frente y detrás de un camión comercial o autobús donde el conductor del vehículo pesado no puede ver a su automóvil."
+  }
+]

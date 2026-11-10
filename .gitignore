@@ -1,0 +1,16 @@
+# Caché de Python y Streamlit
+__pycache__/
+.streamlit/
+*.pyc
+
+# Bases de datos locales
+*.db
+*.sqlite3
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Archivos de configuración de Docker residuales
+.docker/

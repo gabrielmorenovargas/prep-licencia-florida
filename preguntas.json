@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "pregunta": "¿Cuál es el límite de velocidad estándar en una zona residencial de Florida si no hay señales?",
+    "opciones": ["25 mph", "30 mph", "35 mph", "45 mph"],
+    "respuesta_correcta": "30 mph",
+    "explicacion": "Según el manual oficial, la velocidad máxima en zonas residenciales es de 30 mph a menos que se indique lo contrario."
+  },
+  {
+    "id": 2,
+    "pregunta": "En Florida, una línea amarilla discontinua (punteada) en tu lado del carril significa:",
+    "opciones": ["Está prohibido adelantar", "Se permite adelantar con precaución", "Zona de cruce peatonal", "Carril de emergencia"],
+    "respuesta_correcta": "Se permite adelantar con precaución",
+    "explicacion": "Las líneas amarillas discontinuas significan que se permite rebasar si la vía contraria está despejada."
+  },
+  {
+    "id": 3,
+    "pregunta": "Si dos vehículos llegan a una intersección de 4 vías al mismo tiempo, ¿quién cede el paso?",
+    "opciones": ["El de la izquierda al de la derecha", "El de la derecha al de la izquierda", "El vehículo más rápido pasa primero", "El camión más pesado pasa primero"],
+    "respuesta_correcta": "El de la izquierda al de la derecha",
+    "explicacion": "El conductor del vehículo de la izquierda debe ceder el derecho de paso al vehículo de la derecha."
+  },
+  {
+    "id": 4,
+    "pregunta": "Bajo la ley de Florida, ¿quién debe usar obligatoriamente el cinturón de seguridad?",
+    "opciones": ["Solo el conductor", "Solo los pasajeros delanteros", "El conductor y todos los pasajeros menores de 18 años", "Solo los niños menores de 5 años"],
+    "respuesta_correcta": "El conductor y todos los pasajeros menores de 18 años",
+    "explicacion": "La ley de Florida exige el uso del cinturón para el conductor y todos los pasajeros menores de 18 años, sin importar dónde vayan sentados."
+  },
+  {
+    "id": 5,
+    "pregunta": "En Florida, si un conductor es arrestado con un nivel de alcohol en sangre (BAL) de __ o más, se le suspenderá la licencia automáticamente.",
+    "opciones": ["0.02%", "0.05%", "0.08%", "0.10%"],
+    "respuesta_correcta": "0.08%",
+    "explicacion": "El límite legal de alcohol en sangre para conductores mayores de 21 años en Florida es de 0.08%."
+  },
+  {
+    "id": 6,
+    "pregunta": "¿Qué significa una señal de tránsito con forma de octágono (8 lados)?",
+    "opciones": ["Ceda el paso", "Alto (Stop)", "Zona escolar", "Velocidad máxima"],
+    "respuesta_correcta": "Alto (Stop)",
+    "explicacion": "La forma de octágono se reserva exclusivamente para las señales de alto o detención obligatoria."
+  },
+  {
+    "id": 7,
+    "pregunta": "Una señal en forma de triángulo invertido significa:",
+    "opciones": ["No adelantar", "Ceda el paso", "Fin de la autopista", "Cruce de ferrocarril"],
+    "respuesta_correcta": "Ceda el paso",
+    "explicacion": "El triángulo apuntando hacia abajo indica que debes reducir la velocidad y ceder el paso al tráfico con derecho de vía."
+  },
+  {
+    "id": 8,
+    "pregunta": "Si un autobús escolar se detiene con las luces rojas intermitentes en una carretera dividida por una barrera física desértica de 5 pies, ¿qué debe hacer el tráfico en el sentido opuesto?",
+    "opciones": ["Detenerse obligatoriamente", "No es obligatorio detenerse", "Acelerar para pasar rápido", "Tocar la bocina y continuar"],
+    "respuesta_correcta": "No es obligatorio detenerse",
+    "explicacion": "Si la carretera está dividida por una barrera física o un espacio intermedio de al menos 5 pies de ancho, los vehículos que viajan en dirección opuesta no tienen que detenerse."
+  },
+  {
+    "id": 9,
+    "pregunta": "¿Cuál es la distancia mínima que debes mantener al rebasar a un ciclista en Florida?",
+    "opciones": ["1 pie", "2 pies", "3 pies", "5 pies"],
+    "respuesta_correcta": "3 pies",
+    "explicacion": "La ley de Florida exige que los conductores den un espacio mínimo de 3 pies de distancia al rebasar a un ciclista."
+  },
+  {
+    "id": 10,
+    "pregunta": "Las luces delanteras del vehículo deben encenderse desde el atardecer hasta:",
+    "opciones": ["La medianoche", "El amanecer", "Que se despeje el cielo", "Las 8:00 AM"],
+    "respuesta_correcta": "El amanecer",
+    "explicacion": "Las luces delanteras obligatoriamente deben usarse entre el atardecer y el amanecer, o en condiciones de baja visibilidad."
+  },
+  {
+    "id": 11,
+    "pregunta": "Una señal en forma de diamante de color naranja indica:",
+    "opciones": ["Servicios en la carretera", "Advertencia de zona de construcción", "Cruce de animales silvestres", "Ruta de evacuación"],
+    "respuesta_correcta": "Advertencia de zona de construcción",
+    "explicacion": "Las señales naranjas en forma de diamante advierten sobre condiciones especiales de obras o construcción en la vía."
+  },
+  {
+    "id": 12,
+    "pregunta": "Cuando doblas a la izquierda o derecha en Florida, debes activar tus luces direccionales al menos ____ antes de realizar el giro.",
+    "opciones": ["50 pies", "100 pies", "150 pies", "200 pies"],
+    "respuesta_correcta": "100 pies",
+    "explicacion": "Debes dar una señal continua de giro durante al menos 100 pies antes de realizar la maniobra."
+  },
+  {
+    "id": 13,
+    "pregunta": "Si tu vehículo empieza a patinar (hidroplanear) sobre agua estancada, lo primero que debes hacer es:",
+    "opciones": ["Frenar en seco inmediatamente", "Quitar el pie del acelerador gradualmente", "Girar el volante con fuerza al lado opuesto", "Bombear el freno rápidamente"],
+    "respuesta_correcta": "Quitar el pie del acelerador gradualmente",
+    "explicacion": "Nunca frenes bruscamente al hidroplanear. Quita el pie del acelerador para permitir que el vehículo reduzca la velocidad y recupere tracción."
+  },
+  {
+    "id": 14,
+    "pregunta": "Bajo la 'Ley de Ceder el Paso' (Move Over Law), si ves un vehículo de emergencia detenido en el arcén con luces encendidas, debes:",
+    "opciones": ["Mantener tu velocidad actual", "Desocupar el carril más cercano al vehículo de emergencia o reducir la velocidad 20 mph por debajo del límite", "Detenerte por completo en el carril", "Encender tus luces altas"],
+    "respuesta_correcta": "Desocupar el carril más cercano al vehículo de emergencia o reducir la velocidad 20 mph por debajo del límite",
+    "explicacion": "La ley Move Over exige cambiar de carril si es seguro o reducir la velocidad 20 mph por debajo del límite establecido."
+  },
+  {
+    "id": 15,
+    "pregunta": "¿Cuál es la multa en Florida por arrojar basura (littering) de forma ilegal en las carreteras?",
+    "opciones": ["Hasta $50", "Hasta $100", "Hasta $500 y/o cárcel", "Solo una advertencia verbal"],
+    "respuesta_correcta": "Hasta $500 y/o cárcel",
+    "explicacion": "El desecho ilegal de basura es un delito menor que puede costar hasta $500 en multas y cargos penales en Florida."
+  },
+  {
+    "id": 16,
+    "pregunta": "Una línea blanca sólida pintada en la carretera entre dos carriles del mismo sentido significa:",
+    "opciones": ["Se fomenta cambiar de carril constantemente", "Debes permanecer en tu carril a menos que sea una emergencia", "La carretera se convertirá en una vía de doble sentido", "Zona de estacionamiento libre"],
+    "respuesta_correcta": "Debes permanecer en tu carril a menos que sea una emergencia",
+    "explicacion": "Las líneas blancas sólidas desalientan el cambio de carril debido a un mayor riesgo de accidentes."
+  },
+  {
+    "id": 17,
+    "pregunta": "¿Qué indica una señal de tránsito en forma de banderín (triángulo horizontal)?",
+    "opciones": ["Zona escolar adelante", "Zona de no adelantar (No Passing Zone)", "Cruce de peatones", "Dirección única"],
+    "respuesta_correcta": "Zona de no adelantar (No Passing Zone)",
+    "explicacion": "Esta señal se coloca en el lado izquierdo de la carretera y advierte el inicio de un tramo donde está prohibido rebasar."
+  },
+  {
+    "id": 18,
+    "pregunta": "Si un oficial de policía te ordena pasar por una luz roja en una intersección, ¿qué debes hacer?",
+    "opciones": ["Esperar a que la luz cambie a verde", "Seguir las instrucciones del oficial de policía", "Estacionarte y apagar el motor", "Tomar una ruta alternativa inmediatamente"],
+    "respuesta_correcta": "Seguir las instrucciones del oficial de policía",
+    "explicacion": "Las órdenes de un oficial de policía dirigiéndose en el tráfico anulan cualquier señal luminosa o letrero en la vía."
+  },
+  {
+    "id": 19,
+    "pregunta": "¿Qué distancia de seguimiento se recomienda como mínimo detrás de otro vehículo en condiciones normales en Florida?",
+    "opciones": ["Un segundo", "Dos segundos", "Cuatro segundos o más", "Diez segundos"],
+    "respuesta_correcta": "Cuatro segundos o más",
+    "explicacion": "El manual oficial de Florida recomienda la regla de los 'cuatro segundos' para mantener una distancia de seguimiento segura en condiciones normales."
+  },
+  {
+    "id": 20,
+    "pregunta": "Si golpeas un vehículo estacionado y no puedes localizar al propietario, por ley en Florida debes:",
+    "opciones": ["Retirarte si nadie te vio", "Dejar una nota visible con tu nombre, dirección y número de registro, e informar a la policía", "Esperar un máximo de 5 minutos y marcharte", "Llamar a tu compañía de seguros únicamente"],
+    "respuesta_correcta": "Dejar una nota visible con tu nombre, dirección y número de registro, e informar a la policía",
+    "explicacion": "Es obligatorio por ley dejar la información de contacto en un lugar seguro y visible del vehículo afectado y reportar el accidente de inmediato."
+  }
+]

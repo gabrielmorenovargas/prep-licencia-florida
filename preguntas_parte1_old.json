@@ -1,0 +1,392 @@
+[
+  {
+    "id": 1,
+    "categoria": "Licencias y Requisitos",
+    "pregunta": "¿Cuál es la edad mínima para solicitar una Licencia de Aprendizaje (Learner's Permit) en Florida?",
+    "opciones": {
+      "a": "14 años",
+      "b": "15 años",
+      "c": "16 años",
+      "d": "18 años"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "De acuerdo con el manual de Florida, un solicitante debe tener al menos 15 años de edad y haber completado el curso TLSAE para obtener la Licencia de Aprendizaje."
+  },
+  {
+    "id": 2,
+    "categoria": "Licencias y Requisitos",
+    "pregunta": "Un menor con Licencia de Aprendizaje, ¿durante cuántas horas debe conducir acompañado durante los primeros 3 meses?",
+    "opciones": {
+      "a": "Solo durante las horas diurnas",
+      "b": "Hasta las 10:00 p.m.",
+      "c": "Hasta la medianoche",
+      "d": "A cualquier hora del día o de la noche"
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "Durante los primeros tres meses con la Licencia de Aprendizaje, el conductor solo debe conducir durante las horas diurnas; después de 3 meses, puede hacerlo hasta las 10:00 p.m."
+  },
+  {
+    "id": 3,
+    "categoria": "Licencias y Requisitos",
+    "pregunta": "¿Cuántas horas de experiencia de conducción debe certificar un padre o tutor para un menor de 18 años antes de obtener la Licencia de Conducir Clase E?",
+    "opciones": {
+      "a": "30 horas (5 de noche)",
+      "b": "40 horas (10 de noche)",
+      "c": "50 horas (10 de noche)",
+      "d": "100 horas (20 de noche)"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Un adulto responsable debe certificar que el menor ha completado al menos 50 horas de experiencia al volante, de las cuales 10 horas deben ser nocturnas."
+  },
+  {
+    "id": 4,
+    "categoria": "Licencias y Requisitos",
+    "pregunta": "¿Cuál es el horario permitido de conducción para un joven de 16 años con Licencia de Conducir de Florida?",
+    "opciones": {
+      "a": "De 5:00 a.m. a 10:00 p.m.",
+      "b": "De 6:00 a.m. a 11:00 p.m. (a menos que vaya hacia/desde el trabajo o acompañado por un conductor de 21+ años)",
+      "c": "De 7:00 a.m. a medianoche",
+      "d": "Sin restricciones de horario"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Un conductor de 16 años con licencia puede conducir de 6:00 a.m. a 11:00 p.m., a menos que conduzca hacia o desde el trabajo o vaya acompañado por un conductor con licencia de 21 años o más."
+  },
+  {
+    "id": 5,
+    "categoria": "Licencias y Requisitos",
+    "pregunta": "¿Cuál es el horario permitido de conducción para un joven de 17 años con Licencia de Conducir de Florida?",
+    "opciones": {
+      "a": "De 5:00 a.m. a 1:00 a.m. (a menos que vaya hacia/desde el trabajo o acompañado por un conductor de 21+ años)",
+      "b": "De 6:00 a.m. a 11:00 p.m.",
+      "c": "De 6:00 a.m. a medianoche",
+      "d": "Únicamente en horario diurno"
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "Un conductor de 17 años con licencia puede conducir de 5:00 a.m. a 1:00 a.m., a menos que conduzca por motivos de trabajo o acompañado por un conductor con licencia de 21+ años."
+  },
+  {
+    "id": 6,
+    "categoria": "Límites de Velocidad",
+    "pregunta": "¿Cuál es el límite máximo de velocidad estándar en zonas escolares en Florida?",
+    "opciones": {
+      "a": "15 MPH",
+      "b": "20 MPH",
+      "c": "25 MPH",
+      "d": "30 MPH"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "El límite de velocidad estándar en una zona escolar en Florida es de 20 MPH."
+  },
+  {
+    "id": 7,
+    "categoria": "Límites de Velocidad",
+    "pregunta": "En un área municipal, comercial o residencial de Florida, ¿cuál es el límite de velocidad máximo estándar a menos que se indique lo contrario?",
+    "opciones": {
+      "a": "20 MPH",
+      "b": "25 MPH",
+      "c": "30 MPH",
+      "d": "35 MPH"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "A menos que se indique lo contrario mediante señales, el límite de velocidad en zonas urbanas, comerciales o residenciales es de 30 MPH."
+  },
+  {
+    "id": 8,
+    "categoria": "Límites de Velocidad",
+    "pregunta": "En las autopistas de acceso limitado de Florida con un límite de velocidad máximo de 70 MPH, ¿cuál es el límite de velocidad mínimo establecido?",
+    "opciones": {
+      "a": "40 MPH",
+      "b": "45 MPH",
+      "c": "50 MPH",
+      "d": "55 MPH"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "En las autopistas donde el límite de velocidad máximo es de 70 MPH, el límite mínimo de velocidad es de 50 MPH."
+  },
+  {
+    "id": 9,
+    "categoria": "Señales de Tráfico",
+    "pregunta": "Al aproximarse a una intersección donde el semáforo está apagado por una avería, ¿cómo debe tratar la intersección?",
+    "opciones": {
+      "a": "Como una vía libre donde lleva la preferencia",
+      "b": "Como una parada de cuatro vías (4-way stop)",
+      "c": "Cediendo el paso únicamente a los vehículos que vienen de la izquierda",
+      "d": "Avanzando a máxima velocidad para despejar la vía"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Si un semáforo está averiado o apagado, la intersección debe tratarse como una parada de cuatro vías."
+  },
+  {
+    "id": 10,
+    "categoria": "Señales de Tráfico",
+    "pregunta": "¿Qué indica una luz roja intermitente en un semáforo?",
+    "opciones": {
+      "a": "Misma función que una luz amarilla fija: reducir la velocidad",
+      "b": "Trátela como una señal de PARE (Stop): deténgase por completo y avance cuando sea seguro",
+      "c": "Ceda el paso sin detenerse por completo",
+      "d": "Indica que la vía está cerrada temporalmente"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Una luz roja intermitente debe tratarse exactamente como una señal de PARE (Stop)."
+  },
+  {
+    "id": 11,
+    "categoria": "Leyes de Tráfico",
+    "pregunta": "¿A qué distancia mínima antes de realizar un giro debe activar la señal de viraje (intermitente)?",
+    "opciones": {
+      "a": "50 pies",
+      "b": "75 pies",
+      "c": "100 pies",
+      "d": "200 pies"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La ley exige dar la señal de giro al menos 100 pies antes de realizar la maniobra de viraje."
+  },
+  {
+    "id": 12,
+    "categoria": "Leyes de Tráfico",
+    "pregunta": "Según la Ley de 'Moverse a un Lado' (Move Over Law), si circula por una carretera de varios carriles y se aproxima a un vehículo de emergencia o de servicio detenido con luces encendidas, ¿qué debe hacer?",
+    "opciones": {
+      "a": "Acelerar para rebasar rápidamente el área",
+      "b": "Desocupar el carril más cercano al vehículo detenido si es seguro, o reducir la velocidad a 20 MPH por debajo del límite indicado",
+      "c": "Tocar la bocina y mantener la velocidad habitual",
+      "d": "Detenerse por completo en medio de la autopista"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La ley Move Over exige cambiar al carril alejado del vehículo de emergencia o, si no es seguro cambiar de carril, reducir la velocidad 20 MPH por debajo del límite de velocidad publicado."
+  },
+  {
+    "id": 13,
+    "categoria": "Seguridad y Puntos",
+    "pregunta": "¿Cuántos puntos acumulados en un período de 12 meses provocan una suspensión de la licencia por 30 días en Florida?",
+    "opciones": {
+      "a": "6 puntos",
+      "b": "10 puntos",
+      "c": "12 puntos",
+      "d": "18 puntos"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Acumular 12 puntos en un período de 12 meses resulta en una suspensión automática de la licencia por 30 días."
+  },
+  {
+    "id": 14,
+    "categoria": "Seguridad y Puntos",
+    "pregunta": "Si un conductor acumula 18 puntos dentro de un período de 18 meses, ¿por cuánto tiempo se le suspende la licencia?",
+    "opciones": {
+      "a": "30 días",
+      "b": "3 meses",
+      "c": "6 meses",
+      "d": "1 año"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "18 puntos dentro de un período de 18 meses conllevan una suspensión de 3 meses."
+  },
+  {
+    "id": 15,
+    "categoria": "Seguridad y Puntos",
+    "pregunta": "Un conductor menor de 18 años que acumula 6 o más puntos en 12 meses, ¿qué restricción recibe en su licencia?",
+    "opciones": {
+      "a": "Cancelación definitiva de la licencia",
+      "b": "Restricción a conducir 'SÓLO con Fines de Negocios / Profesionales' durante 1 año",
+      "c": "Obligación de conducir únicamente con un tutor durante 6 meses",
+      "d": "Suspensión de 2 años"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Un menor que acumule 6 o más puntos en 12 meses queda restringido automáticamente a conducir solo para fines comerciales/profesionales por un año."
+  },
+  {
+    "id": 16,
+    "categoria": "Alcohol y Drogas",
+    "pregunta": "Bajo la ley de 'Tolerancia Cero' de Florida, ¿cuál es el Nivel de Alcohol en la Sangre (BAL) límite que provoca la suspensión automática de la licencia para un conductor menor de 21 años?",
+    "opciones": {
+      "a": ".01 o superior",
+      "b": ".02 o superior",
+      "c": ".05 o superior",
+      "d": ".08 o superior"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Cualquier conductor menor de 21 años detenido con un BAL de .02 o superior sufrirá una suspensión automática de su privilegio de conducir por 6 meses."
+  },
+  {
+    "id": 17,
+    "categoria": "Alcohol y Drogas",
+    "pregunta": "¿Cuál es el límite legal de Nivel de Alcohol en la Sangre (BAL) para ser acusado de Conducir Bajo los Efectos del Alcohol (DUI) en adultos en Florida?",
+    "opciones": {
+      "a": ".02",
+      "b": ".05",
+      "c": ".08",
+      "d": ".10"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Un nivel de alcohol en el aliento o en la sangre (BAL) de .08 o más es el límite legal a partir del cual una persona es acusada de DUI en Florida."
+  },
+  {
+    "id": 18,
+    "categoria": "Leyes de Seguros",
+    "pregunta": "¿Cuáles son las coberturas mínimas obligatorias exigidas por la Ley de No Culpabilidad para registrar un vehículo de motor en Florida?",
+    "opciones": {
+      "a": "$5,000 PIP y $5,000 PDL",
+      "b": "$10,000 PIP (Protección contra Lesiones Personales) y $10,000 PDL (Daños a la Propiedad)",
+      "c": "$25,000 BIL y $50,000 PDL",
+      "d": "$50,000 de cobertura total"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La ley exige un mínimo de $10,000 en PIP (Personal Injury Protection) y $10,000 en PDL (Property Damage Liability)."
+  },
+  {
+    "id": 19,
+    "categoria": "Estacionamiento",
+    "pregunta": "Al estacionar cuesta arriba en una calle con acera (curb), ¿hacia dónde debe girar las ruedas delanteras de su vehículo?",
+    "opciones": {
+      "a": "Hacia la acera (a la derecha)",
+      "b": "Alejándolas de la acera (hacia la izquierda)",
+      "c": "Totalmente rectas hacia adelante",
+      "d": "No importa la posición de las ruedas si usa el freno de mano"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Al estacionar cuesta arriba con acera, se deben girar las ruedas hacia la izquierda (alejándolas de la acera) para que la rueda posterior encaje contra el borde en caso de fallo de frenos."
+  },
+  {
+    "id": 20,
+    "categoria": "Estacionamiento",
+    "pregunta": "Al estacionar cuesta abajo, ¿hacia dónde deben apuntar las ruedas delanteras?",
+    "opciones": {
+      "a": "Hacia la acera / borde derecho de la calzada",
+      "b": "Hacia el centro de la calle",
+      "c": "Totalmente rectas",
+      "d": "Hacia la izquierda"
+    },
+    "respuesta_correcta": "a",
+    "explicacion": "Al estacionar cuesta abajo (con o sin acera), las ruedas delanteras deben girarse hacia la acera o el borde derecho."
+  },
+  {
+    "id": 21,
+    "categoria": "Estacionamiento",
+    "pregunta": "¿A qué distancia mínima de un hidrante contra incendios es ilegal estacionar un vehículo?",
+    "opciones": {
+      "a": "10 pies",
+      "b": "15 pies",
+      "c": "20 pies",
+      "d": "30 pies"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Está prohibido estacionarse a menos de 15 pies de un hidrante contra incendios."
+  },
+  {
+    "id": 22,
+    "categoria": "Estacionamiento",
+    "pregunta": "¿A qué distancia mínima de una señal de PARE (Stop) o semáforo es ilegal estacionarse?",
+    "opciones": {
+      "a": "15 pies",
+      "b": "20 pies",
+      "c": "30 pies",
+      "d": "50 pies"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Está prohibido estacionarse dentro de los 30 pies de cualquier señal de pare, señal intermitente o semáforo."
+  },
+  {
+    "id": 23,
+    "categoria": "Compartiendo la Carretera",
+    "pregunta": "¿Cuál es la distancia mínima lateral de paso requerida por la ley de Florida que un automovilista debe dejar al adelantar a un ciclista?",
+    "opciones": {
+      "a": "1 pie",
+      "b": "2 pies",
+      "c": "3 pies (1 metro)",
+      "d": "5 pies"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La ley de Florida exige dejar un espacio libre mínimo de 3 pies (1 metro) al rebasar o adelantar a un ciclista."
+  },
+  {
+    "id": 24,
+    "categoria": "Compartiendo la Carretera",
+    "pregunta": "¿Cuándo deben detenerse los vehículos que viajan en sentido contrario ante un autobús escolar parado con luces rojas encendidas en una carretera dividida?",
+    "opciones": {
+      "a": "Siempre deben detenerse sin excepción",
+      "b": "No están obligados a parar si existe un espacio no pavimentado de al menos 5 pies, mediana elevada o barrera física",
+      "c": "Solo si hay niños cruzando la mediana",
+      "d": "Solo en horario escolar"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "Si la carretera está dividida por una mediana elevada, barrera física o un espacio no pavimentado de al menos 5 pies de ancho, los vehículos en sentido contrario no tienen que detenerse."
+  },
+  {
+    "id": 25,
+    "categoria": "Luces y Conducción Nocturna",
+    "pregunta": "Al conducir de noche, ¿a qué distancia debe cambiar sus luces altas a luces bajas cuando se aproxima a un vehículo que viene en sentido contrario?",
+    "opciones": {
+      "a": "200 pies",
+      "b": "300 pies",
+      "c": "500 pies",
+      "d": "750 pies"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Debe cambiar a luces bajas cuando se encuentre a 500 pies o menos de un vehículo que viene de frente."
+  },
+  {
+    "id": 26,
+    "categoria": "Luces y Conducción Nocturna",
+    "pregunta": "Al seguir a otro vehículo por la noche, ¿a qué distancia debe cambiar sus luces a luces bajas?",
+    "opciones": {
+      "a": "100 pies",
+      "b": "200 pies",
+      "c": "300 pies",
+      "d": "500 pies"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Debe usar luces bajas cuando se encuentre a 300 pies o menos por detrás del vehículo que le precede."
+  },
+  {
+    "id": 27,
+    "categoria": "Equipamiento del Vehículo",
+    "pregunta": "¿Cuál es la profundidad mínima permitida de la banda de rodadura de los neumáticos en Florida?",
+    "opciones": {
+      "a": "1/32 de pulgada",
+      "b": "2/32 de pulgada",
+      "c": "3/32 de pulgada",
+      "d": "4/32 de pulgada"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Los neumáticos deben tener una banda de rodadura mínima de al menos 3/32 de pulgada."
+  },
+  {
+    "id": 28,
+    "categoria": "Uso de Dispositivos",
+    "pregunta": "¿Está permitido enviar mensajes de texto mientras se conduce en Florida?",
+    "opciones": {
+      "a": "Sí, en cualquier momento",
+      "b": "Está prohibido en zonas escolares y zonas de trabajo únicamente",
+      "c": "Es ilegal en Florida escribir o enviar mensajes de texto mientras se opera un vehículo de motor",
+      "d": "Está permitido solo para conductores mayores de 21 años"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "Es ilegal en Florida conducir un vehículo de motor mientras se escriben o envían mensajes de texto."
+  },
+  {
+    "id": 29,
+    "categoria": "Infracciones y Costos",
+    "pregunta": "¿Cuál es la tarifa de renovación para una Licencia de Conducir no comercial Clase E en Florida?",
+    "opciones": {
+      "a": "$25",
+      "b": "$35",
+      "c": "$48",
+      "d": "$60"
+    },
+    "respuesta_correcta": "c",
+    "explicacion": "La tarifa original y de renovación para una Licencia de Conducir Clase E es de $48."
+  },
+  {
+    "id": 30,
+    "categoria": "Controles de Tráfico",
+    "pregunta": "¿Qué indica una señal de tránsito octagonal de color rojo con letras blancas?",
+    "opciones": {
+      "a": "Ceda el Paso (Yield)",
+      "b": "Detención total obligatoria (PARE / STOP)",
+      "c": "Zona de Obras",
+      "d": "Advertencia de Peligro"
+    },
+    "respuesta_correcta": "b",
+    "explicacion": "La señal octagonal roja siempre indica una detención completa obligatoria (PARE / STOP)."
+  }
+]

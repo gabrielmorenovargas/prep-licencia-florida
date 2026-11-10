@@ -1,0 +1,22 @@
+services:
+  dynamodb-local:
+    image: amazon/dynamodb-local:latest
+    container_name: dynamodb-local
+    ports:
+      - "8000:8000"
+    command: "-jar DynamoDBLocal.jar -inMemory -sharedDb"
+
+  web-app:
+    build: .
+    container_name: florida-drive-web
+    ports:
+      - "8501:8501"
+    volumes:
+      - .:/app
+    environment:
+      - AWS_ACCESS_KEY_ID=mockkey2026
+      - AWS_SECRET_ACCESS_KEY=mockkey2026
+      - AWS_DEFAULT_REGION=us-east-1
+      - DYNAMODB_URL=http://dynamodb-local:8000
+    depends_on:
+      - dynamodb-local

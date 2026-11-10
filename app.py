@@ -45,7 +45,7 @@ if "auth_mode" not in st.session_state:
 if "mock_users_db" not in st.session_state:
     st.session_state.mock_users_db = {
         "admin@floridadrive.com": {"password": "admin123", "role": "admin", "verified": True},
-        "gabrielmorenovargas@gmail.com": {"password": "GabuchoMoreno35", "role": "client", "verified": True}
+        "user@floridadrive.com": {"password": "user123", "role": "client", "verified": True}
     }
 
 if "generated_otp" not in st.session_state:

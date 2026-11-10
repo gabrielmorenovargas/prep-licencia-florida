@@ -73,6 +73,8 @@ Para auditar las herramientas operativas y el flujo comercial del sistema, puede
     *   **Correo Electrónico:** `admin@floridadrive.com`
     *   **Contraseña:** `admin123`
 *   **Perfil Cliente (Estudiante):**
+    *   **Correo Electrónico:** `user@floridadrive.com`
+    *   **Contraseña:** `user123`
     *   Puedes hacer clic directamente en el botón **"Crear Cuenta"**, registrar un correo simulado, rellenar el formulario e introducir el token OTP dinámico que se desplegará en la barra azul para validar tu identidad de alumno.
 
 ---
